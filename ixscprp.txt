@@ -1,0 +1,8 @@
+
+"ixscprp"
+{
+	"base" 			"helix"
+	"title" 		"SCP RP"
+	"author" 		"Mazzie"
+	"menusystem"	"1"
+}
